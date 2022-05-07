@@ -34,10 +34,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
-global.owner = ['6285158866902'] // Put your number here //owner eval
-global.kontak = ['6285158866902','6282186172016'] //Ketika ada yang ngetik #owner
-global.mods = ['6285158866902'] // Want some help?
-global.prems = ['6285158866902'] // Premium user has unlimited limit
+global.owner = ['+1 (647) 794-4776'] // Put your number here //owner eval
+global.kontak = ['+1 (647) 794-4776','6282146218274'] //Ketika ada yang ngetik #owner
+global.mods = ['+1 (647) 794-4776'] // Want some help?
+global.prems = ['+1 (647) 794-4776'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
