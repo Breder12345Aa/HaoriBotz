@@ -34,10 +34,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
-global.owner = ['6285158866902'] // Put your number here //owner eval
-global.kontak = ['6285158866902','6282186172016'] //Ketika ada yang ngetik #owner
-global.mods = ['6285158866902'] // Want some help?
-global.prems = ['6285158866902'] // Premium user has unlimited limit
+global.owner = ['6285763376203'] // Put your number here //owner eval
+global.kontak = ['6285763376203','0'] //Ketika ada yang ngetik #owner
+global.mods = ['6285763376203'] // Want some help?
+global.prems = ['6285763376203'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -81,15 +81,15 @@ namakontak2 = ''
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '▧ Hασrι - Chαn' // ganti aja
-global.author = '© Zîѵғurr' // ganti aja
+global.packname = '▧ BOT - HAORI Izin W recod' // ganti aja
+global.author = '© BOT -2022' // ganti aja
 
 //yyy
-bc = 'Ħασяιвσтʓ' //King Of Bear Broadcast
+bc = 'ĦBC ===== © BOT -2022' //King Of Bear Broadcast
 footer = '\nHᴀᴏʀɪBᴏᴛᴢ 🔭'
 namabot = '𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾'
 namalu = 'Zivfurr'
-global.botwm = `𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾`//UBAH JADI NAMAMU
+global.botwm = `BOT -2022🐾`//UBAH JADI NAMAMU
 
 
 // 
